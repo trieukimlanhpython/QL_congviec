@@ -11,7 +11,7 @@ import streamlit as st
 import pandas as pd
 import re
 import io   # 👈 thêm dòng này
-
+import matplotlib.pyplot as plt
 
 # ==========================================================
 # ⚙️ CẤU HÌNH
